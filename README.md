@@ -6,7 +6,7 @@ It was my first time programming in Java so there is still room for improvements
 Hope you like it or that it proves useful for your projects!
 
 # SideStep
-The games objective is to survive as long as possible by dodging the red balls and with the help of the superpowers that periodically pop up in the screen.
+The games objective is to survive as long as possible by dodging the red balls with the help of the superpowers that periodically pop up in the screen.
 
 ## Keybindings
 The default keybindings are the usual W = Up , A = Left , S = Down , D = Right.
